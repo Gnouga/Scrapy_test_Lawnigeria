@@ -6,3 +6,6 @@ https://judgements.lawnigeria.com/2018/12/07/3plr-a-c-b-ltd-v-babayemi-hc/ is th
 code source allow creating testdele table and insert data into this table
   Pipeline contains two parameters : Content and url
   Running code >> It's starting by creating table in postgres database then create table "testdele" then insert parameters content ( label & url)  
+Added Packages : scrapy and psycopg2 
+  
+ result is "testdele" which content figure in testdele_result.csv
